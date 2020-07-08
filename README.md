@@ -3,6 +3,6 @@ I'm a 17 year old, **aspiring** computational physicist + machine learning enthu
 
 
 - 🔭 I’m currently working on improving my skills in data engineering
-- 🌱 I’m currently learning various python libraries in Python used for scientific reseach.
+- 🌱 I’m currently learning various Python libraries used for scientific reseach.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: **Python** has overtaken French in primary schools
