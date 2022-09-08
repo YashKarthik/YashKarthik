@@ -4,6 +4,7 @@ Hi, I'm Yash Karthik
 - 👯 I’m looking to collaborate on projects that involve the [Lens Protocol](https://lens.xyz/) and identity on blockchains.
 - 📫 Reach me on [Twitter](https://twitter.com/_yashKarthik)
 - ✍️ I write regularly on [yashkarthik.xyz](https://www.yashkarthik.xyz)
+- 🧑‍💻 Checkout my recent project [Friendcaster](https://friend-caster.herokuapp.com/) ([repo here](https://github.com/yashkarthik/friendcaster))
 
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashkarthik&show_icons=true&theme=tokyonight)
