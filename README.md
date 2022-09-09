@@ -1,7 +1,7 @@
 Hi, I'm Yash Karthik
 - 🛠 I’m currently working at Mitra Robotics as Software Test Intern.
 - 🌱 I’m currently learning Solidity and the Ethereum Stack.
-- 👯 I’m looking to collaborate on projects that involve the [Lens Protocol](https://lens.xyz/) and identity on blockchains.
+- 👯 I’m looking to collaborate on projects that involve the [Lens Protocol](https://lens.xyz/) or [Farcaster](https://farcaster.xyz) - identity on blockchains.
 - 📫 Reach me on [Twitter](https://twitter.com/_yashKarthik)
 - ✍️ I write regularly on [yashkarthik.xyz](https://www.yashkarthik.xyz)
 - 🧑‍💻 Checkout my recent project [Friendcaster](https://friend-caster.herokuapp.com/) ([repo here](https://github.com/yashkarthik/friendcaster))
