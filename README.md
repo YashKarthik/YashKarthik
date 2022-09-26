@@ -7,6 +7,5 @@ Hi, I'm Yash Karthik
 - 🧑‍💻 Checkout my recent project [Friendcaster](https://friend-caster.herokuapp.com/) ([repo here](https://github.com/yashkarthik/friendcaster))
 
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashkarthik&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkarthik&langs_count=8&hide=jupyter%20notebook,html&theme=tokyonight)](https://github.com/yashkarthik/github-readme-stats)
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkarthik&show_icons=true&theme=midnight-purple&hide_border=true" alt="Yash's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkarthik&layout=compact&theme=midnight-purple&hide_border=true&hide=jupyter%20notebook,html" /> |
+| ------------- | ------------- |
