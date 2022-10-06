@@ -20,6 +20,7 @@ jobs:
           user: yashkarthik
           template: classic
           base: ""
+          filename: "metrics-rss"
           config_timezone: UTC
           plugin_rss: yes
           plugin_rss_limit: 4
