@@ -27,6 +27,7 @@ jobs:
           user: yashkarthik
           template: classic
           base: ""
+          filename: "metrics-achievments"
           config_timezone: UTC
           plugin_achievements: yes
           plugin_achievements_display: detailed
