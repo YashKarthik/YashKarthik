@@ -28,5 +28,5 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          filename: "metrics-basic"
+          filename: metrics-basic.svg
           config_timezone: UTC
