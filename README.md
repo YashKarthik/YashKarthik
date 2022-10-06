@@ -10,10 +10,10 @@ from Scratch to Python & Typescript and moved on from lego robots & arduinos to 
 Besides building products & apps, I love [writing](https://yashkarthik.xyz), and hacking in `~/.config` :D
 
 <div>
-  <a target="_blank" href="https://metrics.lecoq.io/insights/yashkarthik"><img src="metrics-basic.svg" align="left" /></a>
+  <a target="_blank" href="https://metrics.lecoq.io/insights/yashkarthik"><img src="metrics-basic.svg" align="left" width="47.5%" /></a>
   <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkarthik&show_icons=true&theme=github_dark&hide_border=true" alt="Yash's github stats" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkarthik&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkarthik&show_icons=true&theme=github_dark&hide_border=true" alt="Yash's github stats" width="47.5%"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkarthik&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html&langs_count=8" width="47.5%"/>
   </div>
 </div>
 
