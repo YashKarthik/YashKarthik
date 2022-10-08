@@ -21,7 +21,7 @@ Besides building products & apps, I love [writing](https://yashkarthik.xyz), and
 
 The learn-by-doing culture of this space helped me get my hands dirty 
 building stuff. [This](https://yashkarthik.xyz) blog is my attempt at giving back to the internet.
-It's also my excuse for playing around with new ideas and practicing the craft of writing. I'm also part of [Protocol Review DAO](https://review.mirror.xyz) - a publication publishing high quality high-quality overviews and reviews of web3 protocols. We analyze and try to communicate how the code works and the nitty-gritty implementation details.
+It's also my excuse for playing around with new ideas and practicing the craft of writing. I'm also part of [Protocol Review DAO](https://review.mirror.xyz) - a publication publishing high-quality overviews and reviews of web3 protocols. We analyze and try to communicate how the code works and the nitty-gritty implementation details.
 
 Recent posts (click to visit (my personal blog)):
 
