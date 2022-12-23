@@ -1,6 +1,6 @@
 <p>
   <pre align="center">
-<strong>Yash Karthik /</strong> <a href="https://www.yashkarthik.xyz">Blog</a> / <a href="https://twitter.com/_yashkarthik">Twitter</a> / <a href="https://github.com/yashkarthik">GitHub</a> / <a href="https://gist.github.com/yashkarthik">Gists</a> </pre>
+<strong>Yash Karthik </strong>• <a href="https://www.yashkarthik.xyz">Blog</a> • <a href="https://twitter.com/_yashkarthik">Twitter</a> • <a href="https://github.com/yashkarthik">GitHub</a> • <a href="https://gist.github.com/yashkarthik">Gists</a> • <a href="https://buymeacoffee.com/yashkarthik">Coffee</a> </pre>
 </p>
 
 Hi, I'm Yash. A programmer and writer, with a knack for "googling it" 
