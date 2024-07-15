@@ -8,7 +8,7 @@
 
 Hi, I'm `Yash`. I like building cool things with friends.
 
-`Currently` I'm working at Helicone.ai and learning pcb design.
+`Currently` I'm working at Helicone.ai and learning rtl design.
 
 `Before` that I built a <a href="https://github.com/yashkarthik/tinyrenderer">rasterization engine</a>  from scratch (no libraries!)
 to learn how 3D renderers work.
